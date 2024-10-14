@@ -10,14 +10,9 @@ Make sure you have a modern web browser installed.
 ### Installation
 
 1. Clone the repository:
-    ```sh
-    git clone <repository-url>
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd <repository-directory>
-    ```
 
+    git clone https://github.com/DacaPefe/Card.git
+    
 ## Usage
 
 Open the `index.html` file in your web browser to see the card design.
